@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 
 // Other
-global.link = 'https://whatsapp.com/channel/09VaWJMi3GehEE9e1YsI1S'
+global.link = 'https://whatsapp.com/channel/09VaWJMi3GehEe1YsI1S'
 global.linkGroup = 'https://chat.whatsapp.com/E3PWxdc7ZCp1ExOCkEGp'
 
 global.apikey = 'bf2d2cf29b3edc604b447983';
